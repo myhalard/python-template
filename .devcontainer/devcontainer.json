@@ -1,0 +1,6 @@
+{
+    "name": "python3",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
